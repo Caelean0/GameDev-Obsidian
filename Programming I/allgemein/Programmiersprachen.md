@@ -1,4 +1,3 @@
-
 ## Was sind Programmiersprachen
 Programmiersprachen sind Beschreibungen von einem [[Algorithmus]] oder aus mehreren [[Datentypen]]. Und auch aus verschiedenen Datenstrukturen. Dieses sind so geschrieben, das sie von einem Computer ausgeführt werden können.
 
