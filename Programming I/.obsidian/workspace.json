@@ -75,10 +75,54 @@
               "state": {
                 "file": "Übersicht.canvas",
                 "viewState": {
-                  "x": 2922.6562576971332,
-                  "y": 1907.6977306093622,
-                  "zoom": -1.1102230246251565e-16
+                  "x": 3365.3443256006685,
+                  "y": 1151.3623416158189,
+                  "zoom": -1.1692983363941336
                 }
+              }
+            }
+          },
+          {
+            "id": "326befef0cd2eaac",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Aufgaben/Übung3LösungB.png"
+              }
+            }
+          },
+          {
+            "id": "3b6468c4eeb61746",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Aufgaben/Übung3LösungC.png"
+              }
+            }
+          },
+          {
+            "id": "8e48f84fd1b1d2b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Datentypen/Datentypen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c670fb40e7d04cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aufgaben/Übung 2.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -208,6 +252,14 @@
                 "file": "Übersicht.canvas"
               }
             }
+          },
+          {
+            "id": "835c790a4d5da089",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ]
       }
@@ -228,14 +280,22 @@
   },
   "active": "d196befb09220324",
   "lastOpenFiles": [
-    "Datentypen/Zahlen.md",
+    "Aufgaben/Übung3LösungB.png",
+    "Aufgaben/Übung 3.md",
+    "Aufgaben/Übung3LösungA.png",
+    "Aufgaben/Übung3LösungC.png",
+    "Übung3LösungB.png.md",
+    "allgemein/Programmiersprachen.md",
+    "allgemein/Programme.md",
     "Übersicht.canvas",
-    "Datentypen/Boolean.md",
     "Datentypen/Datentypen.md",
     "Aufgaben/Übung 2.md",
-    "Aufgaben/Übung 1.md",
     "Algorithmen/Algorithmus.md",
-    "allgemein/Programmiersprachen.md",
+    "Aufgaben/Übung4.md",
+    "Aufgaben/Übung 1.md",
+    "Algorithmen/Bekannte Algorithmen.md",
+    "Datentypen/Zahlen.md",
+    "Datentypen/Boolean.md",
     "allgemein/Programmierung.md",
     "Compiler vs Interpreter/Interpreter.md",
     "Compiler vs Interpreter/Compiler.md",
@@ -246,17 +306,12 @@
     "Datentypen/char.md",
     "Datentypen/long.md",
     "Datentypen/Analogie zur Mathematik.md",
-    "allgemein/Programme.md",
     "allgemein/EVA Prinzip.md",
     "allgemein/Definitionen",
     "ProgrammingIObsidian",
     "allgemein/Definitionen/Ideen.md",
     "Craft.md",
     "allgemein/Definitionen/Intuition.md",
-    "allgemein/Definitionen/Experimentation.md",
-    "allgemein/Definitionen/Transfer.md",
-    "allgemein/Definitionen/Kreativität.md",
-    "Algorithmen/Beispiele für Nicht-Algorithmen.md",
     "allgemein",
     "Untitled",
     "Algorithmen",
@@ -266,9 +321,6 @@
     "Compiler vs Interpreter",
     "Aufgaben",
     "Abstraktion",
-    "Aufgaben/Übung3LösungC.png",
-    "Aufgaben/Übung3LösungB.png",
-    "Aufgaben/Übung3LösungA.png",
     "Programming I/Übung3Lösung.png",
     "Programming I"
   ]

@@ -6,7 +6,6 @@ a) Modellieren Sie einen Taschenrechner, der 2 Zahlen addiert und das Ergebnis a
 
 b.) Erweitern Sie den Taschenrechner auf 4 Grundrechenarten + * - /
 
-![[Übung3LösungB.png]]
 
 c.)
 Beschreiben Sie Ihren Weg zur Hochschule mit Hilfe eines Programmablaufplans
