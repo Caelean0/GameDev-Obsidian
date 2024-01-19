@@ -10,6 +10,6 @@ Im Kontrast dazu stehen Beispiele aus dem Alltag, die als [[Beispiele für Nicht
 - Ermittlung gesuchter Größen aus gegebenen Größen
 
 
-- [[Algorithmus]]
+- [[Algorithmen]]
 - [[Vollständigkeit und Präzision|Eigenschaften eines Algorithmus]]
 - [[Beispiele für Nicht-Algorithmen]]

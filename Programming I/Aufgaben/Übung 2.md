@@ -1,4 +1,4 @@
-Diskutieren Sie in Kleingruppen über Beispiele für Algorithmen, die nichts mit Informatik zutun haben? Nehmen Sie dazu die Def. einen [[Algorithmus]] zu Hilfe. Jede Gruppe hat 10min ein Bsp. zu finden.
+Diskutieren Sie in Kleingruppen über Beispiele für Algorithmen, die nichts mit Informatik zutun haben? Nehmen Sie dazu die Def. einen [[Algorithmen]] zu Hilfe. Jede Gruppe hat 10min ein Bsp. zu finden.
 
 
 #### Beispiele:
