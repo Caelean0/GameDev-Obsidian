@@ -1,0 +1,3 @@
+**Grafikdesign** ist alles
+- => Elemente, Formen, Farben, Texturen, Linien, Negative Space, Balance...
+- Aufbau: wie arbeite ich mit was

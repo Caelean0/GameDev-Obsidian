@@ -1,0 +1,1 @@
+Alles Großbuchstaben, aber (eigentliche) Kleinbuchstaben werden in der kleinen Größe dargestellt

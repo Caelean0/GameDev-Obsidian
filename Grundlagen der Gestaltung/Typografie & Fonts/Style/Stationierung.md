@@ -1,0 +1,2 @@
+- Abstand zwischen einzelnen Buchstaben
+- Strecken/Stauchen von Schriften

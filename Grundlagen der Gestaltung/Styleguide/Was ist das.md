@@ -1,0 +1,2 @@
+- "Regelwerk", nachdem Artists arbeiten können.
+- schafft Kontinuität (Asset 1 und Asset 2 sind klar erkennbar aus dem gleichen Spiel)

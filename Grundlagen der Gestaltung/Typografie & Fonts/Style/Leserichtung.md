@@ -1,0 +1,4 @@
+- links, rechts, mittig-bündig?
+- Blocksatz?
+- Horizontal/Vertikal?
+- gedreht?

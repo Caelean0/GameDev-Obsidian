@@ -1,0 +1,2 @@
+- Buchstabe sind an Stellen "gebrochen"
+- vor allem bei alten Schriften

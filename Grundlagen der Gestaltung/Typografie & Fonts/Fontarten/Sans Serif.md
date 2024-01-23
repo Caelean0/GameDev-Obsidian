@@ -1,0 +1,3 @@
+- Schrift ohne Serien
+- kamen durch Industrialisierung auf
+- wurde bei den ersten Computern verwendet, da es auf niedriger auflösenden Bildschirmen besser lesbar war

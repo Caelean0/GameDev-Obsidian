@@ -1,0 +1,4 @@
+- Als Hilfsmittel
+- Als Trennelement
+- Als Rahmen
+- Geänderte Leserichtung

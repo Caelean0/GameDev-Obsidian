@@ -1,0 +1,4 @@
+- Fancy dünne Striche, die zusätzlich an den Lettern dranhängen (z.B. TimesNewRoman)
+- auch "anstrich", "Füßchen"
+- ermöglichen schnelles lesen
+- Bücher & Romane

@@ -1,0 +1,1 @@
+Zerstört Statik und erschafft Dynamik durch pures Chaos.

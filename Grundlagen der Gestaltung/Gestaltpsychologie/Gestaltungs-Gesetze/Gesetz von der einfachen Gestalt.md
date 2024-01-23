@@ -1,0 +1,1 @@
+Die Interpretation der Reize führt je nach Erfahrung des Betrachters zu unterschiedlichen Ergebnissen.

@@ -1,0 +1,1 @@
+Dinge, die ähnlich wirken - z.B. durch Farbe, Größe Form - werden gedanklich gruppiert.

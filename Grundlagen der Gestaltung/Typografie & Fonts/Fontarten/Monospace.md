@@ -1,0 +1,3 @@
+- Buchstaben haben immer gleich Breite bzw. fixen Abstand
+- auch "Teletype", "Fixed Font"
+- vgl. Schreibmaschine

@@ -1,0 +1,2 @@
+Linien, die in echt Parallel sind, haben auf dem Bild einen gemeinsamen Fluchtpunkt. Dinge werden kleiner, je weiter weg sie sind bzw. je näher sie dem Fluchtpunkt sind. 
+Bei einem Fluchtpunkt spricht man von Zentralperspektive; es kann aber auch mehrere geben. 2 sieht man oft in der Architektur, 3 werden zur Darstellung von Vogelperspektive verwendet.

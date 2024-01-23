@@ -1,0 +1,1 @@
+Die Figur-Grund-Beziehung bildet den eingeschlossenen Raum, die Figur, den ausgeschlossenen Raum (=>Vorder- und Hintergrund).

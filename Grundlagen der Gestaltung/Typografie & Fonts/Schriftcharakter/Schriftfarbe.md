@@ -1,0 +1,1 @@
+Auch die Farbe trägt zum Schriftcharakter bei

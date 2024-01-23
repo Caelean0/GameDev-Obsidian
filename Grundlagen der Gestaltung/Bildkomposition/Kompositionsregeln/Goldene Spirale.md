@@ -1,0 +1,1 @@
+Basiert auf dem [[Goldener Schnitt|Goldenen Schnitt]], kombiniert mit Fibonacci-Zahlen und Logarythmus

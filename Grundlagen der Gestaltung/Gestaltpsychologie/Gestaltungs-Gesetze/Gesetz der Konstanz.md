@@ -1,0 +1,1 @@
+Auch wenn z.B. ein Gang aufgrund der [[Zeichnen-Perspektiven]] nach hinten hin "kleiner" gezeichnet ist, nimmt unser Hirn die Säulen als gleich wahr.

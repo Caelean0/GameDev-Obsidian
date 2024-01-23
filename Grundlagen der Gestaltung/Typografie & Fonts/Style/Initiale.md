@@ -1,0 +1,1 @@
+Erster Buchstabe in einem Absatz/Kapitel/... wird Groß und ausgeschmückt

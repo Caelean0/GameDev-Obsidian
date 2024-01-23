@@ -1,0 +1,3 @@
+- Hochformat
+- Querformat
+- Formbasiert (z.B. hexagonal)

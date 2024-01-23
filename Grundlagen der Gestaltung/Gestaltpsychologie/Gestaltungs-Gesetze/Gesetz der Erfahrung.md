@@ -1,0 +1,2 @@
+Jeder Mensch hat verschiedene Erfahrungen gemacht.
+Anhand dessen fällt uns auf, wenn z.B. [[Proportionen]] nicht mit unseren Erfahrungen übereinstimmen, bei Transformationen die Struktur verändert wurde oder wir Gesichter aus verschiedenen Perspektiven und Blickwinkeln wiedererkennen.

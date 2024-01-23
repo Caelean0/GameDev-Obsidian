@@ -1,0 +1,1 @@
+Die Abgrenzung durch einen Rahmen ist eindeutig und wirkt daher stärker als die Gleichheit oder Nähe der Elemente.
